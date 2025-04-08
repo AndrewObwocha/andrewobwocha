@@ -2,10 +2,19 @@
   Hello! 👋 I'm Andrew Obwocha.
 </h1>
 <h2 align="center">About Me 🚀</h2>
-<p align="center">
-👦 Pursuing a Bachelors Degree in "Computer Science" at "The University of Alberta". </br>
-💻 My interests range from Frontend to Backend Development & I enjoy exploring new things.
-</p>
+<h3 align="center">
+I'm a 1st year Computing Science student at The University Of Alberta determined to build and maintain software solutions that make for a better tomorrow.
+</h3>
+
+<br>
+
+<ul>
+<li>🎯 Aiming to contribute to AI/ML based projects
+<li>🗺️ Exploring the landscape of agentic workflows
+<li>🧪 Experimenting with the Django Framework on the side
+</ul>
+
+<br>
 
 <h2 align="center">Main Languages and Tools ⚔️</h2>
 <p align="center">
