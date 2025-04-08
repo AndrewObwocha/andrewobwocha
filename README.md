@@ -6,4 +6,6 @@ My name is Andrew Obwocha, I'm a UAlberta Computer Science major interested in a
 - 👯 I’m looking to collaborate on cloud-based projects
 - 📫 How to reach me: andrewobwocha@icloud.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewobwocha&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=andrewobwocha&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
+</p>
