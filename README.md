@@ -10,7 +10,7 @@ I'm a 1st year Computing Science student at The University Of Alberta determined
 
 <ul>
 <li>🎯 Aiming to contribute to AI/ML projects
-<li>🗺️ Exploring the landscape of agentic workflows
+<li>🗺️ Exploring agentic workflows
 <li>🧪 Experimenting with the Django Framework on the side
 </ul>
 
