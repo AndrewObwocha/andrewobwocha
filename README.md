@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center">About Me 🚀</h2>
 <h3 align="center">
-I'm a 1st year Computing Science student at The University Of Alberta determined to build and maintain software solutions that make for a better tomorrow.
+I'm a second-year Computing Science student at the University of Alberta, determined to build and maintain software solutions that make for a better tomorrow.
 </h3>
 
 <br>
