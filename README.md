@@ -1,35 +1,55 @@
-<h1 align="center">
-  Hello! 👋 I'm Andrew Obwocha.
-</h1>
-<h2 align="center">About Me 🚀</h2>
-<h3 align="center">
-I'm a second-year Computing Science student at the University of Alberta, determined to build and maintain software solutions that make for a better tomorrow.
-</h3>
+# Hi there 👋, I'm Andrew Obwocha!
 
-<br>
+I'm a Computer Science student at the University of Alberta with a passion for developing innovative and efficient software solutions. My work focuses on full-stack applications, backend development, and machine learning. I thrive on solving complex problems and am always eager to learn new technologies and apply them to create impactful projects.
 
-<ul>
-<li>🎯 Aiming to contribute to AI/ML projects
-<li>🗺️ Exploring agentic workflows
-<li>🧪 Experimenting with the Django Framework on the side
-</ul>
+---
 
-<br>
+### 👨‍💻 Tech Stack
 
-<h2 align="center">Main Languages and Tools ⚔️</h2>
-<p align="center">
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+Here are some of the technologies I'm proficient in:
+
+<p align="left">
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> </a>
+     <a href="https://graphql.org/" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
+    <a href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
 
-<br>
+---
 
-<h2 align="center">Reach Me At 🔍</h2>
+### 🚀 My Projects
+
+Here are a few projects I've worked on:
+
+| Project Name | Description | Technologies Used |
+|---|---|---|
+| **KnowledgeGraph** | A GraphQL-powered knowledge graph that dynamically links concepts to reduce information retrieval time and support over 10,000 nodes. | `Spring Boot`, `GraphQL`, `JPA`, `SQLite` |
+| **UniNotes** | A full-stack study platform built with Django and React to centralize academic materials, decreasing study prep time for users. | `Django`, `React`, `REST APIs`, `JWT` |
+| **HouseValuator** | An automated machine learning pipeline that reduces data preparation time for a dataset. | `Python`, `Pandas`, `Scikit-learn` |
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/andrew-obwocha/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"></a>
-<a target="_blank" href="mailto:obwochandrew@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewObwocha&layout=compact&locale=en&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+You can reach me through the following platforms:
+
+<p align="left">
+<a href="https://linkedin.com/in/andrewobwocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aobwocha@ualberta.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
