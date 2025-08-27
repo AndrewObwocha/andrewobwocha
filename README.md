@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Andrew Obwocha!
+<h1 align="center">Hi there 👋, I'm Andrew Obwocha!</h1>
 
 I'm a Computer Science student at the University of Alberta with a passion for developing innovative and efficient software solutions. My work focuses on full-stack applications, backend development, and machine learning. I thrive on solving complex problems and am always eager to learn new technologies and apply them to create impactful projects.
 
