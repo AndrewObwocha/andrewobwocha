@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Andrew Obwocha!</h1>
 
-I'm a Computer Science student at the University of Alberta with a passion for developing innovative and efficient software solutions. My work focuses on full-stack applications, backend development, and machine learning. I thrive on solving complex problems and am always eager to learn new technologies and apply them to create impactful projects.
+The idea is to problem-solve; code is a mere expression of the solution. With me, these solutions tend to take the shape of full-stack web applications or machine learning pipelines. These domains are my current focus, not my ultimate scope; I am open to contributing to any problem-space.
 
 ---
 
 ### 👨‍💻 Tech Stack
 
-Here are some of the technologies I'm proficient in:
+Here are some of the technologies I leverage while solving problems:
 
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
@@ -27,7 +27,7 @@ Here are some of the technologies I'm proficient in:
 
 ### 🚀 My Projects
 
-Here are a few projects I've worked on:
+Here are a few problems I have solved:
 
 | Project Name | Description | Technologies Used |
 |---|---|---|
