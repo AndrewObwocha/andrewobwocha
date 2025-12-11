@@ -25,18 +25,6 @@ Here are some of the technologies I leverage while solving problems:
 
 ---
 
-### 🚀 My Projects
-
-Here are a few problems I have solved:
-
-| Project Name | Description | Technologies Used |
-|---|---|---|
-| **KnowledgeGraph** | A GraphQL-powered knowledge graph that dynamically links concepts to reduce information retrieval time and support over 10,000 nodes. | `Spring Boot`, `GraphQL`, `JPA`, `SQLite` |
-| **UniNotes** | A full-stack study platform built with Django and React to centralize academic materials, decreasing study prep time for users. | `Django`, `React`, `REST APIs`, `JWT` |
-| **HouseValuator** | An automated machine learning pipeline that reduces data preparation time for a dataset. | `Python`, `Pandas`, `Scikit-learn` |
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
