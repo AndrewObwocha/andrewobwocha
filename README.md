@@ -24,12 +24,20 @@ Here are some of the technologies I leverage while solving problems:
 </p>
 
 ---
-
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewObwocha&layout=compact&locale=en&theme=dark" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <!-- Left Column: Activity Graph -->
+    <td align="center" width="60%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewObwocha&theme=react-dark&area=true&hide_border=true" height="220" alt="Activity Graph" />
+    </td>
+    <!-- Right Column: Grade and Top Languages stacked -->
+    <td align="center" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewObwocha&layout=compact&theme=dark&hide_border=true" height="220" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
