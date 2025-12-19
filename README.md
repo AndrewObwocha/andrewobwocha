@@ -1,6 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Andrew Obwocha!</h1>
+<h1 align="center">
+  Hi there <img src="waving_hand.gif" width="35px">, I'm Andrew Obwocha!
+</h1>
 
-The idea is to problem-solve; code is a mere expression of the solution. With me, these solutions tend to take the shape of full-stack web applications or machine learning pipelines. These domains are my current focus, not my ultimate scope; I am open to contributing to any problem-space.
+Second year CS at UAlberta 🎓 <br/>
+Building software to make life easier by the day 🧘🏿‍♂️ <br/>
+RESTful APIs and PostgreSQL in the works 👷🏿‍♂️🛠️
 
 ---
 
